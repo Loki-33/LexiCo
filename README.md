@@ -1,4 +1,4 @@
 # LexiCo
 ### A simple lexer+parser+AST
-Implemented the lexer from scratch, also using re
+Implemented the lexer from scratch, also using regular expressions
 
